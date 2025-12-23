@@ -1,8 +1,6 @@
 import logging
-from os import getenv
-from pyrogram import Client
+from pyrogram import Client, filters
 from pyromod import listen
-from pyrogram import filters
 from pyrogram.enums import ParseMode, ChatMemberStatus
 from pyrogram.types import CallbackQuery, Message
 from pyrogram.handlers import MessageHandler
