@@ -5,7 +5,3 @@ TgCrypto==1.2.5
 httpx==0.24.1
 aiohttp==3.8.4
 requests==2.30.0
-
-python-dotenv==1.0.0
-validators==0.22.0
-huepy==1.2.1
