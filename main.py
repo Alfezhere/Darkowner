@@ -1,3 +1,5 @@
+import os
+print("FILES:", os.listdir())
 import logging
 from pyrogram import Client, filters
 from pyromod import listen
